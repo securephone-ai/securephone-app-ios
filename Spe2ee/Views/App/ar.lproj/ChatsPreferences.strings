@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Chat Wallpaper"; ObjectID = "Qff-Bg-a1M"; */
+"Qff-Bg-a1M.text" = "خلفية الدردشة";
+
+/* Class = "UILabel"; text = "Delete All Chats"; ObjectID = "StL-cc-ZI7"; */
+"StL-cc-ZI7.text" = "حذف كل الدردشات";
+
+/* Class = "UILabel"; text = "Clear All Chats"; ObjectID = "eG7-gh-zVc"; */
+"eG7-gh-zVc.text" = "مسح كل الدردشات";

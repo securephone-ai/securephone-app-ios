@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "Sent"; ObjectID = "0aK-ci-ZFi"; */
+"0aK-ci-ZFi.text" = "Sent";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "0lL-Ib-0bu"; */
+"0lL-Ib-0bu.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "0sn-8c-4Qs"; */
+"0sn-8c-4Qs.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "15C-b9-jjb"; */
+"15C-b9-jjb.text" = "Detail";
+
+/* Class = "UILabel"; text = "SPE2EE CALLS"; ObjectID = "1be-IG-uMZ"; */
+"1be-IG-uMZ.text" = "SPE2EE CALLS";
+
+/* Class = "UILabel"; text = "Bytes Received"; ObjectID = "4Oz-4s-sme"; */
+"4Oz-4s-sme.text" = "Bytes Received";
+
+/* Class = "UILabel"; text = "Total Time"; ObjectID = "7tS-IS-2xL"; */
+"7tS-IS-2xL.text" = "Total Time";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "8zb-MF-PY6"; */
+"8zb-MF-PY6.text" = "Detail";
+
+/* Class = "UILabel"; text = "Sent"; ObjectID = "Abk-0t-xoM"; */
+"Abk-0t-xoM.text" = "Sent";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Ajw-Fj-IJd"; */
+"Ajw-Fj-IJd.text" = "Detail";
+
+/* Class = "UILabel"; text = "Reset Statistics"; ObjectID = "BFO-U7-SUa"; */
+"BFO-U7-SUa.text" = "Reset Statistics";
+
+/* Class = "UILabel"; text = "Bytes Received"; ObjectID = "G71-5U-aUU"; */
+"G71-5U-aUU.text" = "Bytes Received";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "IM8-X2-oL2"; */
+"IM8-X2-oL2.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "IQe-QQ-AKi"; */
+"IQe-QQ-AKi.text" = "Detail";
+
+/* Class = "UILabel"; text = "Received"; ObjectID = "Jb7-x0-YIt"; */
+"Jb7-x0-YIt.text" = "Received";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "NgE-vN-xaN"; */
+"NgE-vN-xaN.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "P3c-p1-IlL"; */
+"P3c-p1-IlL.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "Tc4-eF-tkg"; */
+"Tc4-eF-tkg.text" = "Detail";
+
+/* Class = "UILabel"; text = "Bytes sent"; ObjectID = "X8d-ih-JX3"; */
+"X8d-ih-JX3.text" = "Bytes sent";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "YPg-2w-A1p"; */
+"YPg-2w-A1p.text" = "Detail";
+
+/* Class = "UILabel"; text = "Bytes sent"; ObjectID = "YWz-SA-FWM"; */
+"YWz-SA-FWM.text" = "Bytes sent";
+
+/* Class = "UILabel"; text = "CHAT MEDIA"; ObjectID = "b2x-bd-ucT"; */
+"b2x-bd-ucT.text" = "CHAT MEDIA";
+
+/* Class = "UILabel"; text = "Bytes Received"; ObjectID = "bp0-uE-3kl"; */
+"bp0-uE-3kl.text" = "Bytes Received";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cCy-vH-Tbe"; */
+"cCy-vH-Tbe.text" = "Detail";
+
+/* Class = "UILabel"; text = "Bytes Sent"; ObjectID = "cvz-BJ-9u1"; */
+"cvz-BJ-9u1.text" = "Bytes Sent";
+
+/* Class = "UILabel"; text = "TOTAL BYTES"; ObjectID = "e32-HO-z5W"; */
+"e32-HO-z5W.text" = "TOTAL BYTES";
+
+/* Class = "UILabel"; text = "Bytes Sent"; ObjectID = "hGX-bL-2gC"; */
+"hGX-bL-2gC.text" = "Bytes Sent";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "iXU-vD-1MC"; */
+"iXU-vD-1MC.text" = "Detail";
+
+/* Class = "UILabel"; text = "Received"; ObjectID = "kEv-DI-m8G"; */
+"kEv-DI-m8G.text" = "Received";
+
+/* Class = "UILabel"; text = "MESSAGES"; ObjectID = "kkx-kN-ool"; */
+"kkx-kN-ool.text" = "MESSAGES";
+
+/* Class = "UILabel"; text = "Bytes Received"; ObjectID = "mhp-bM-fMu"; */
+"mhp-bM-fMu.text" = "Bytes Received";
+
+/* Class = "UILabel"; text = "Outgoing"; ObjectID = "mkO-qP-0N9"; */
+"mkO-qP-0N9.text" = "Outgoing";
+
+/* Class = "UILabel"; text = "Incoming"; ObjectID = "pyE-0m-Egh"; */
+"pyE-0m-Egh.text" = "Incoming";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "qfy-T2-EqC"; */
+"qfy-T2-EqC.text" = "Detail";
+
+/* Class = "UILabel"; text = "STATUS MEDIA"; ObjectID = "yXs-KC-wTp"; */
+"yXs-KC-wTp.text" = "STATUS MEDIA";

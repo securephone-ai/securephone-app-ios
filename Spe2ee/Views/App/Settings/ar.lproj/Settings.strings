@@ -1,0 +1,29 @@
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "1PY-Fx-BLr"; */
+"1PY-Fx-BLr.text" = "الدردشات";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "7O2-gG-Cb4"; */
+"7O2-gG-Cb4.title" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "A9J-bq-Dmg"; */
+"A9J-bq-Dmg.text" = "الحساب";
+
+/* Class = "UILabel"; text = "Data and Storage Usage"; ObjectID = "Cm2-aC-tb1"; */
+"Cm2-aC-tb1.text" = "حجم البيانات والتخزين المستخدم";
+
+"NAW-Ch-JQU.text" = "حجم التخزين المستخدم";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "OaN-2U-tBa"; */
+"OaN-2U-tBa.text" = "متصل";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "YCo-f4-Qiz"; */
+"YCo-f4-Qiz.text" = "اسم المستخدم";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "ec6-fF-UsH"; */
+"ec6-fF-UsH.title" = "الإعدادات";
+
+/* Class = "UILabel"; text = "Starred Messages"; ObjectID = "hBO-r3-1H3"; */
+"hBO-r3-1H3.text" = "الرسائل المميزة بنجمة";
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "pZS-86-GKS"; */
+"pZS-86-GKS.text" = "المساعدة";

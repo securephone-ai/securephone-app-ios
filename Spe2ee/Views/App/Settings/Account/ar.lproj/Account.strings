@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Request Account Info"; ObjectID = "1aR-ya-3o5"; */
+"1aR-ya-3o5.text" = "Request Account Info";
+
+/* Class = "UILabel"; text = "Two-Step Veriication"; ObjectID = "Mhb-WF-BEw"; */
+"Mhb-WF-BEw.text" = "Two-Step Veriication";
+
+/* Class = "UILabel"; text = "Delete My Account"; ObjectID = "QAI-a8-ccp"; */
+"QAI-a8-ccp.text" = "Delete My Account";
+
+/* Class = "UILabel"; text = "Security"; ObjectID = "VBs-di-J3G"; */
+"VBs-di-J3G.text" = "Security";
+
+/* Class = "UILabel"; text = "Change Number"; ObjectID = "rjt-Bx-dJu"; */
+"rjt-Bx-dJu.text" = "Change Number";

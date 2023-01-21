@@ -1,0 +1,361 @@
+The target system is: Darwin -  - arm
+The host system is: Darwin - 19.3.0 - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang 
+Build flags: -Wall;-mfloat-abi=softfp;-arch;armv7s;-miphoneos-version-min=7.0
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is AppleClang, found in "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/3.11.1/CompilerIdC/CMakeCCompilerId.o"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8aaa4/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_8aaa4.dir/build.make CMakeFiles/cmTC_8aaa4.dir/build
+Building C object CMakeFiles/cmTC_8aaa4.dir/testCCompiler.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_8aaa4.dir/testCCompiler.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/testCCompiler.c"
+Linking C executable cmTC_8aaa4
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8aaa4.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_8aaa4.dir/testCCompiler.c.o  -o cmTC_8aaa4 
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4d757/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4d757.dir/build.make CMakeFiles/cmTC_4d757.dir/build
+Building C object CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.11.1/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_4d757
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d757.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o  -o cmTC_4d757 
+Apple clang version 11.0.0 (clang-1100.0.33.17)
+Target: arm-apple-darwin19.3.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch armv7s -iphoneos_version_min 7.0.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -o cmTC_4d757 -headerpad_max_install_names -v CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.ios.a
+@(#)PROGRAM:ld  PROJECT:ld64-530
+BUILD 18:57:17 Dec 13 2019
+configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
+Library search paths:
+	/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib
+Framework search paths:
+	/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_4d757/fast"]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4d757.dir/build.make CMakeFiles/cmTC_4d757.dir/build]
+  ignore line: [Building C object CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o   -c /usr/local/Cellar/cmake/3.11.1/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_4d757]
+  ignore line: [/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d757.dir/link.txt --verbose=1]
+  ignore line: [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o  -o cmTC_4d757 ]
+  ignore line: [Apple clang version 11.0.0 (clang-1100.0.33.17)]
+  ignore line: [Target: arm-apple-darwin19.3.0]
+  ignore line: [Thread model: posix]
+  ignore line: [InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin]
+  link line: [ "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld" -demangle -lto_library /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib -dynamic -arch armv7s -iphoneos_version_min 7.0.0 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -o cmTC_4d757 -headerpad_max_install_names -v CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o -lSystem /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.ios.a]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld] ==> ignore
+    arg [-demangle] ==> ignore
+    arg [-lto_library] ==> ignore, skip following value
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib] ==> skip value of -lto_library
+    arg [-dynamic] ==> ignore
+    arg [-arch] ==> ignore
+    arg [armv7s] ==> ignore
+    arg [-iphoneos_version_min] ==> ignore
+    arg [7.0.0] ==> ignore
+    arg [-syslibroot] ==> ignore
+    arg [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_4d757] ==> ignore
+    arg [-headerpad_max_install_names] ==> ignore
+    arg [-v] ==> ignore
+    arg [CMakeFiles/cmTC_4d757.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lSystem] ==> lib [System]
+    arg [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.ios.a] ==> lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.ios.a]
+  Library search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib]
+  Framework search paths: [;/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/]
+  remove lib [System]
+  remove lib [/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/lib/darwin/libclang_rt.ios.a]
+  collapse library dir [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib]
+  collapse framework dir [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/] ==> [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks]
+  implicit libs: []
+  implicit dirs: [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib]
+  implicit fwks: [/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks]
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d6a46/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d6a46.dir/build.make CMakeFiles/cmTC_d6a46.dir/build
+Building C object CMakeFiles/cmTC_d6a46.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -std=c11 -o CMakeFiles/cmTC_d6a46.dir/feature_tests.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_d6a46
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d6a46.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d6a46.dir/feature_tests.c.o  -o cmTC_d6a46 
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4d6d5/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4d6d5.dir/build.make CMakeFiles/cmTC_4d6d5.dir/build
+Building C object CMakeFiles/cmTC_4d6d5.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -std=c99 -o CMakeFiles/cmTC_4d6d5.dir/feature_tests.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_4d6d5
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4d6d5.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4d6d5.dir/feature_tests.c.o  -o cmTC_4d6d5 
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c773c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c773c.dir/build.make CMakeFiles/cmTC_c773c.dir/build
+Building C object CMakeFiles/cmTC_c773c.dir/feature_tests.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -std=c90 -o CMakeFiles/cmTC_c773c.dir/feature_tests.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/feature_tests.c"
+Linking C executable cmTC_c773c
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c773c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c773c.dir/feature_tests.c.o  -o cmTC_c773c 
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4c53d/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_4c53d.dir/build.make CMakeFiles/cmTC_4c53d.dir/build
+Building C object CMakeFiles/cmTC_4c53d.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_4c53d.dir/CheckIncludeFile.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+Linking C executable cmTC_4c53d
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4c53d.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_4c53d.dir/CheckIncludeFile.c.o  -o cmTC_4c53d 
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_45c38/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_45c38.dir/build.make CMakeFiles/cmTC_45c38.dir/build
+Building C object CMakeFiles/cmTC_45c38.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_45c38.dir/CheckIncludeFile.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+Linking C executable cmTC_45c38
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_45c38.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_45c38.dir/CheckIncludeFile.c.o  -o cmTC_45c38 
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c4b8e/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c4b8e.dir/build.make CMakeFiles/cmTC_c4b8e.dir/build
+Building C object CMakeFiles/cmTC_c4b8e.dir/CheckIncludeFile.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_c4b8e.dir/CheckIncludeFile.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckIncludeFile.c"
+Linking C executable cmTC_c4b8e
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c4b8e.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c4b8e.dir/CheckIncludeFile.c.o  -o cmTC_c4b8e 
+
+
+Determining size of size_t passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c4de3/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c4de3.dir/build.make CMakeFiles/cmTC_c4de3.dir/build
+Building C object CMakeFiles/cmTC_c4de3.dir/SIZE_T.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_c4de3.dir/SIZE_T.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckTypeSize/SIZE_T.c"
+Linking C executable cmTC_c4de3
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c4de3.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c4de3.dir/SIZE_T.c.o  -o cmTC_c4de3 
+
+
+Determining size of unsigned long passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cd4b0/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_cd4b0.dir/build.make CMakeFiles/cmTC_cd4b0.dir/build
+Building C object CMakeFiles/cmTC_cd4b0.dir/UNSIGNED_LONG.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_cd4b0.dir/UNSIGNED_LONG.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckTypeSize/UNSIGNED_LONG.c"
+Linking C executable cmTC_cd4b0
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cd4b0.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_cd4b0.dir/UNSIGNED_LONG.c.o  -o cmTC_cd4b0 
+
+
+Performing C SOURCE FILE Test HAVE_BUILTIN_CTZL succeeded with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e23fd/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_e23fd.dir/build.make CMakeFiles/cmTC_e23fd.dir/build
+Building C object CMakeFiles/cmTC_e23fd.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DHAVE_BUILTIN_CTZL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_e23fd.dir/src.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/src.c"
+Linking C executable cmTC_e23fd
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e23fd.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DHAVE_BUILTIN_CTZL -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_e23fd.dir/src.c.o  -o cmTC_e23fd 
+
+Source file was:
+int main(int argc, char **argv) { unsigned long a = argc;  return __builtin_ctzl(a); }
+Determining if files locale.h exist passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ff0e8/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ff0e8.dir/build.make CMakeFiles/cmTC_ff0e8.dir/build
+Building C object CMakeFiles/cmTC_ff0e8.dir/HAVE_LOCALE_H.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_ff0e8.dir/HAVE_LOCALE_H.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckIncludeFiles/HAVE_LOCALE_H.c"
+Linking C executable cmTC_ff0e8
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ff0e8.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ff0e8.dir/HAVE_LOCALE_H.c.o  -o cmTC_ff0e8 
+
+
+Determining if files stdlib.h exist passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c7efd/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_c7efd.dir/build.make CMakeFiles/cmTC_c7efd.dir/build
+Building C object CMakeFiles/cmTC_c7efd.dir/HAVE_STDLIB_H.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_c7efd.dir/HAVE_STDLIB_H.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckIncludeFiles/HAVE_STDLIB_H.c"
+Linking C executable cmTC_c7efd
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c7efd.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_c7efd.dir/HAVE_STDLIB_H.c.o  -o cmTC_c7efd 
+
+
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2ba81/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_2ba81.dir/build.make CMakeFiles/cmTC_2ba81.dir/build
+Building C object CMakeFiles/cmTC_2ba81.dir/NEED_SYS_TYPES_H.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_2ba81.dir/NEED_SYS_TYPES_H.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckIncludeFiles/NEED_SYS_TYPES_H.c"
+Linking C executable cmTC_2ba81
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2ba81.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_2ba81.dir/NEED_SYS_TYPES_H.c.o  -o cmTC_2ba81 
+
+
+Determining if the memset exist passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5913c/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_5913c.dir/build.make CMakeFiles/cmTC_5913c.dir/build
+Building C object CMakeFiles/cmTC_5913c.dir/CheckSymbolExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_5913c.dir/CheckSymbolExists.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckSymbolExists.c"
+Linking C executable cmTC_5913c
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5913c.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_5913c.dir/CheckSymbolExists.c.o  -o cmTC_5913c 
+
+File /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef memset
+  return ((int*)(&memset))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the memcpy exist passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ed15d/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_ed15d.dir/build.make CMakeFiles/cmTC_ed15d.dir/build
+Building C object CMakeFiles/cmTC_ed15d.dir/CheckSymbolExists.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_ed15d.dir/CheckSymbolExists.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckSymbolExists.c"
+Linking C executable cmTC_ed15d
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ed15d.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_ed15d.dir/CheckSymbolExists.c.o  -o cmTC_ed15d 
+
+File /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef memcpy
+  return ((int*)(&memcpy))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining size of unsigned char passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_188cb/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_188cb.dir/build.make CMakeFiles/cmTC_188cb.dir/build
+Building C object CMakeFiles/cmTC_188cb.dir/UNSIGNED_CHAR.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_188cb.dir/UNSIGNED_CHAR.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckTypeSize/UNSIGNED_CHAR.c"
+Linking C executable cmTC_188cb
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_188cb.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_188cb.dir/UNSIGNED_CHAR.c.o  -o cmTC_188cb 
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_41875/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_41875.dir/build.make CMakeFiles/cmTC_41875.dir/build
+Building C object CMakeFiles/cmTC_41875.dir/UNSIGNED_SHORT.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_41875.dir/UNSIGNED_SHORT.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CheckTypeSize/UNSIGNED_SHORT.c"
+Linking C executable cmTC_41875
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_41875.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_41875.dir/UNSIGNED_SHORT.c.o  -o cmTC_41875 
+
+
+Performing C SOURCE FILE Test INCOMPLETE_TYPES succeeded with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3fe71/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_3fe71.dir/build.make CMakeFiles/cmTC_3fe71.dir/build
+Building C object CMakeFiles/cmTC_3fe71.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DINCOMPLETE_TYPES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_3fe71.dir/src.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/src.c"
+Linking C executable cmTC_3fe71
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3fe71.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DINCOMPLETE_TYPES -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_3fe71.dir/src.c.o  -o cmTC_3fe71 
+
+Source file was:
+int main(void) { typedef struct undefined_structure *undef_struct_ptr;  undef_struct_ptr ptr = 0;  return ptr != 0; }
+Performing C SOURCE FILE Test INLINE_WORKS succeeded with the following output:
+Change Dir: /Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d2b11/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_d2b11.dir/build.make CMakeFiles/cmTC_d2b11.dir/build
+Building C object CMakeFiles/cmTC_d2b11.dir/src.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang   -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DINLINE_WORKS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk   -o CMakeFiles/cmTC_d2b11.dir/src.c.o   -c "/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/libs/libjpeg-turbo-2.0.4/ARMv7s/CMakeFiles/CMakeTmp/src.c"
+Linking C executable cmTC_d2b11
+/usr/local/Cellar/cmake/3.11.1/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d2b11.dir/link.txt --verbose=1
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -Wall -mfloat-abi=softfp -arch armv7s -miphoneos-version-min=7.0 -DINLINE_WORKS -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_d2b11.dir/src.c.o  -o cmTC_d2b11 
+
+Source file was:
+__inline__ __attribute__((always_inline)) static int foo(void) { return 0; } int main(void) { return foo(); }

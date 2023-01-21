@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Banners, Sounds, VIbrate"; ObjectID = "0zz-d1-lnt"; */
+"0zz-d1-lnt.text" = "Banners, Sounds, VIbrate";
+
+/* Class = "UILabel"; text = "MESSAGE NOTIFICATION"; ObjectID = "1Na-Ng-2uu"; */
+"1Na-Ng-2uu.text" = "MESSAGE NOTIFICATION";
+
+/* Class = "UILabel"; text = "Show Notifications"; ObjectID = "2ZX-SK-h0L"; */
+"2ZX-SK-h0L.text" = "Show Notifications";
+
+/* Class = "UILabel"; text = "Preview message text inside new message notifications."; ObjectID = "AOK-an-U2H"; */
+"AOK-an-U2H.text" = "Preview message text inside new message notifications.";
+
+/* Class = "UILabel"; text = "Show Notifications"; ObjectID = "LL2-xR-mTm"; */
+"LL2-xR-mTm.text" = "Show Notifications";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "dzv-2s-wkd"; */
+"dzv-2s-wkd.text" = "Sound";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "fGc-ce-s9M"; */
+"fGc-ce-s9M.text" = "Sound";
+
+/* Class = "UILabel"; text = "Reset all notification settings, including custom notificatio settings for your chats."; ObjectID = "gF9-Ba-cmH"; */
+"gF9-Ba-cmH.text" = "Reset all notification settings, including custom notificatio settings for your chats.";
+
+/* Class = "UILabel"; text = "GROUP NOTIFICATION"; ObjectID = "khx-f0-Ba7"; */
+"khx-f0-Ba7.text" = "GROUP NOTIFICATION";
+
+/* Class = "UILabel"; text = "Show Preview"; ObjectID = "mmj-hS-BRA"; */
+"mmj-hS-BRA.text" = "Show Preview";
+
+/* Class = "UILabel"; text = "Reset Notification Settings"; ObjectID = "oVm-gu-r4p"; */
+"oVm-gu-r4p.text" = "Reset Notification Settings";
+
+/* Class = "UILabel"; text = "In-App Notifications"; ObjectID = "zVE-Rt-4BB"; */
+"zVE-Rt-4BB.text" = "In-App Notifications";

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E8029F9-F72F-42B8-A3E3-64BC570367B6"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C547D184-B068-428F-9864-79695FC82011"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlackboxCore/Source/blackbox.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11525"
+            endingLineNumber = "11525"
+            landmarkName = "bb_get_cert(sender, recipient, token, pwd)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C547D184-B068-428F-9864-79695FC82011 - a312f6893ba30dc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11526"
+                  endingLineNumber = "11526"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "C547D184-B068-428F-9864-79695FC82011 - a312f6893ba30e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11525"
+                  endingLineNumber = "11525"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "C547D184-B068-428F-9864-79695FC82011 - a312f6893ba30e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11525"
+                  endingLineNumber = "11525"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "C547D184-B068-428F-9864-79695FC82011 - a312f6893ba30e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11525"
+                  endingLineNumber = "11525"
+                  offsetFromSymbolStart = "604">
+               </Location>
+               <Location
+                  uuid = "C547D184-B068-428F-9864-79695FC82011 - a312f6893ba30e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11525"
+                  endingLineNumber = "11525"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlackboxCore/Source/blackbox.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11573"
+            endingLineNumber = "11573"
+            landmarkName = "bb_get_cert(sender, recipient, token, pwd)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A - a312f6893ba337d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11573"
+                  endingLineNumber = "11573"
+                  offsetFromSymbolStart = "1580">
+               </Location>
+               <Location
+                  uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A - a312f6893ba337d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11573"
+                  endingLineNumber = "11573"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+               <Location
+                  uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A - a312f6893ba337d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11573"
+                  endingLineNumber = "11573"
+                  offsetFromSymbolStart = "1552">
+               </Location>
+               <Location
+                  uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A - a312f6893ba337d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11573"
+                  endingLineNumber = "11573"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  uuid = "D0E1AF07-F907-4435-9658-7A93C74A216A - a312f6893ba337d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bb_get_cert"
+                  moduleName = "BlackboxCore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akash/XCodeProjects/calc7077-app-client-ios/BlackboxCore/Source/blackbox.c"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11573"
+                  endingLineNumber = "11573"
+                  offsetFromSymbolStart = "1352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC1ADDFA-A815-40F2-BDE5-0337CBA60B82"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlackboxCore/Source/blackbox.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23451"
+            endingLineNumber = "23451"
+            landmarkName = "bb_decrypt_pwdconf(pwdconfenc, pwdconfenclen, keyp, pwdconf, tmpfolder)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A8ADAE2-3700-4B95-A9C6-C2B982F50B08"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spe2ee/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "sceneWillEnterForeground(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B5DF4E2-06CE-4850-8D95-37769808AA1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlackboxCore/Source/blackbox.c"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11532"
+            endingLineNumber = "11532"
+            landmarkName = "bb_get_cert(sender, recipient, token, pwd)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

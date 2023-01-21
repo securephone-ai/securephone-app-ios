@@ -1,0 +1,130 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/cmyk.h
+jinclude.h
+-
+jpeglib.h
+-
+jconfigint.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jconfigint.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jerror.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jinclude.h
+jconfig.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jconfig.h
+stddef.h
+-
+stdlib.h
+-
+sys/types.h
+-
+stdio.h
+-
+strings.h
+-
+string.h
+-
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jmorecfg.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jpegint.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jpeglib.h
+jconfig.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jconfig.h
+jmorecfg.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jmorecfg.h
+jpegint.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jpegint.h
+jerror.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/jerror.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/./md5.h
+sys/types.h
+-
+machine/endian.h
+-
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/md5.c
+string.h
+-
+md5.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/md5.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/md5.h
+sys/types.h
+-
+machine/endian.h
+-
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/md5hl.c
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+io.h
+-
+unistd.h
+-
+errno.h
+-
+stdio.h
+-
+stdlib.h
+-
+./md5.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/./md5.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjunittest.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+tjutil.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjutil.h
+turbojpeg.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/turbojpeg.h
+md5/md5.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/md5/md5.h
+cmyk.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/cmyk.h
+time.h
+-
+unistd.h
+-
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjutil.c
+windows.h
+-
+tjutil.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjutil.h
+stdlib.h
+-
+sys/time.h
+-
+tjutil.h
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjutil.h
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/tjutil.h
+stdio.h
+-
+
+/Users/Valerio/Project/spe2eeapp/iOS/Spe2ee copy/src/libjpeg-turbo-2.0.4/turbojpeg.h
+
+jconfig.h
+
+jconfigint.h
+

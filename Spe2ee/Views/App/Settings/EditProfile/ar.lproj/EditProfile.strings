@@ -1,0 +1,21 @@
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "78S-Xr-qWc"; */
+"78S-Xr-qWc.title" = "تعديل";
+
+/* Class = "UINavigationItem"; title = "Edit Progile"; ObjectID = "CqD-HQ-EIe"; */
+"CqD-HQ-EIe.title" = "Edit Progile";
+
+/* Class = "UITableViewController"; title = "Edit Profile"; ObjectID = "Jza-9t-w1H"; */
+"Jza-9t-w1H.title" = "Edit Profile";
+
+/* Class = "UITableViewController"; title = "Update Status"; ObjectID = "NIl-Aa-yxd"; */
+"NIl-Aa-yxd.title" = "Update Status";
+
+/* Class = "UILabel"; text = "Available"; ObjectID = "f57-wD-spV"; */
+"f57-wD-spV.text" = "Available";
+
+/* Class = "UILabel"; text = "ABOUT"; ObjectID = "lTt-aC-kaf"; */
+"lTt-aC-kaf.text" = "الحالة";
+
+/* Class = "UILabel"; text = "PHONE NUMBER"; ObjectID = "qcs-1Y-uxB"; */
+"qcs-1Y-uxB.text" = "رقم الهاتف";

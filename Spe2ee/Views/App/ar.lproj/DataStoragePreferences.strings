@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Audio"; ObjectID = "2Ea-du-X60"; */
+"2Ea-du-X60.text" = "المقاطع الصوتية";
+
+/* Class = "UILabel"; text = "Low Data Usage"; ObjectID = "6jn-qf-zh6"; */
+"6jn-qf-zh6.text" = "الاستعمال القليل للبيانات";
+
+/* Class = "UILabel"; text = "Storage Usage"; ObjectID = "9NY-q2-851"; */
+"9NY-q2-851.text" = "حجم التخزين المستعمل";
+
+/* Class = "UILabel"; text = "Wi-Fi and Cellular"; ObjectID = "Gs4-Ug-PKk"; */
+"Gs4-Ug-PKk.text" = "Wi-Fi وخلوي";
+
+/* Class = "UILabel"; text = "Documents"; ObjectID = "LJH-G3-pAZ"; */
+"LJH-G3-pAZ.text" = "المستندات";
+
+/* Class = "UILabel"; text = "Wi-Fi"; ObjectID = "Lx9-7h-ClD"; */
+"Lx9-7h-ClD.text" = "Wi-Fi";
+
+/* Class = "UILabel"; text = "Lower the amount of data used during a WhatsApp call on cellular"; ObjectID = "O7D-zO-TzX"; */
+"O7D-zO-TzX.text" = "قلل نسبة البيانات المستخدمة أثناء إجراء مكالمات واتساب من خلال بياناتك الخلوية";
+
+/* Class = "UILabel"; text = "MEDIA AUTO-DOWNLOAD"; ObjectID = "OM5-sX-evZ"; */
+"OM5-sX-evZ.text" = "التنزيل التلقائي للوسائط";
+
+/* Class = "UILabel"; text = "Wi-Fi and Cellular"; ObjectID = "QTM-T1-JLc"; */
+"QTM-T1-JLc.text" = "Wi-Fi وخلوي";
+
+/* Class = "UILabel"; text = "Photos"; ObjectID = "TFj-ce-Doq"; */
+"TFj-ce-Doq.text" = "الصور";
+
+/* Class = "UILabel"; text = "Videos"; ObjectID = "Vwu-wF-krp"; */
+"Vwu-wF-krp.text" = "الفيديوهات";
+
+/* Class = "UILabel"; text = "Network Usage"; ObjectID = "aRQ-AW-5Su"; */
+"aRQ-AW-5Su.text" = "استعمال الشبكة";
+
+/* Class = "UILabel"; text = "Voice Messages are always automatically downloaded for the best communications experience"; ObjectID = "bpC-qY-a48"; */
+"bpC-qY-a48.text" = "يتم دائما تنزيل الرسائل الصوتية تلقائيا لتحظى بأفضل تجربة لدى التواصل مع الأخرين";
+
+/* Class = "UILabel"; text = "CALL SETTINGS"; ObjectID = "cP7-bG-zSQ"; */
+"cP7-bG-zSQ.text" = "اعدادات المكالمات";
+
+/* Class = "UILabel"; text = "Wi-Fi"; ObjectID = "lci-qS-Q2S"; */
+"lci-qS-Q2S.text" = "Wi-Fi";
+
+/* Class = "UILabel"; text = "Reset Auto-Download Settings"; ObjectID = "mUm-de-sVM"; */
+"mUm-de-sVM.text" = "إعادة تعيين إعدادات التنزيل التلقائي";

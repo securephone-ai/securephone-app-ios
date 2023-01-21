@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/johnweeks/Desktop/securephone-app-client-ios/Xcurrency.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BlackboxCore/BlackboxCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:WatermarkedImageView/WatermarkedImageView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ImageViewer/ImageViewer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NotificationView/NotificationView.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

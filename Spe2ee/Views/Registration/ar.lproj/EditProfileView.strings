@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "25"; ObjectID = "G14-ag-yh0"; */
+"G14-ag-yh0.text" = "25";
+
+/* Class = "UILabel"; text = "Enter your name and add an optional profile picture"; ObjectID = "JLO-DO-nEn"; */
+"JLO-DO-nEn.text" = "اختر صورة للملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "NeC-XP-pfD"; */
+"NeC-XP-pfD.normalTitle" = "تعديل";
+
+/* Class = "UIButton"; normalTitle = "add photo"; ObjectID = "jzP-JC-OSg"; */
+"jzP-JC-OSg.normalTitle" = "add photo";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "kLz-cX-KEN"; */
+"kLz-cX-KEN.placeholder" = "Username";

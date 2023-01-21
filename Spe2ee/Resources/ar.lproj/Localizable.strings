@@ -1,0 +1,387 @@
+"Xcurrency" = "Xcurrency";
+"XCURRENCY" = "XCURRENCY";
+"Chat" = "الدردشة";
+"Chats" = "الدردشات";
+"RegistrationViewController_Title" = "رقم جوالك";
+"RegistrationViewController_Header" = "يرجى تأكيد رمز الدولة الخاص بك وادخال رقم جوالك";
+"EditNumber" = "تعديل الرقم";
+"RetrievingCredentials" = "استعادة بيانات المرور...";
+"Delete" = "حذف";
+"Take Photo" = "انقر لأخذ صورة";
+"Choose Photo" = "اختيار صورة";
+"Cancel" = "الغاء";
+"Add Photo" = "اضافة صورة";
+"Calls" = "المكالمات";
+"Edit" = "تحرير";
+"Done" = "تم";
+"Photos" = "الصور";
+"Audio" = "الصوت";
+"Videos" = "الفيديوهات";
+"Documents" = "المستندات";
+"Never" = "أبدا";
+"Network Usage" = "استخدام الشبكة";
+"Wi-Fi" = "Wi-Fi";
+"Wi-Fi and Cellular" = "Wi-Fi وخلوي";
+"Hello" = "مرحبا";
+"Add" = "أضف";
+"Adding" = "إضافة";
+"Settings" = "الإعدادات";
+"Edit Profile" = "تحرير الملف الشخصي";
+"Available" = "موجود";
+
+"At Meeting" = "في اجتماع";
+"On an international trip" = "في رحلة خارج المملكة";
+"On a domestic trip" = "في رحلة داخل المملكة";
+"Out of service" = "خارج الخدمة";
+"On personal time" = "وقت شخصي";
+
+"Select your about" = "حدد ماذا عنك";
+"About" = "عن";
+"Currently set to" = "معين حاليا على";
+"Currently used status..." = "الحالة المستخدمة...";
+"Broadcast Lists" = "قوائم البث";
+"New Group" = "مجموعة جديدة";
+"Archived Chats" = "دردشات مؤرشفة";
+"Archive" = "أرشفة";
+"Unarchive" = "إلغاءالأرشفة";
+"Unread" = "غير مقروءة";
+"Pin" = "تثبيت";
+"All" = "الكل";
+"Missed" = "فائته";
+"Incoming" = "قادمة";
+"Outgoing" = "صادرة";
+"Missed" = "فائته";
+"Clear" = "مسح";
+"Clear Call History" = "مسح محتوى الدردشة";
+"Mute" = "كتم";
+"Group Info" = "تفاصيل المجموعة";
+"Contact Info" = "تفاصيل جهة الاتصال";
+"Export Chat" = "تصدير الدردشة";
+"Clear Chat" = "مسح الدردشة";
+"Delete Chat" = "حذف الدردشة";
+"Today" = "اليوم";
+"Camera" = "الكاميرا";
+"Photo & Video Library" = "مكتبة الصور والفيديو";
+"Document" = "مستند";
+"Location" = "الموقع";
+"Contact" = "جهة اتصال";
+"Share Location" = "مشاركة الموقع";
+"Slide to cancel" = "انهاء المكالمة";
+"New Chat" = "دردشةجديدة";
+"New Contact" = "جهة اتصال جديدة";
+"Delete Contact" = "حذف جهة اتصال";
+"more fields" = "حقول اضافية";
+"add other field" = "اضافة حقل آخر";
+"Save" = "حفظ";
+"Contact Details" = "تفاصيل جهة الاتصال";
+"Invalid contact" = "جهة اتصال غير صالحة";
+"The contact number just added is not registered within the system, therefore it will not be displayed." = "جهة الاتصال المضافة غير مسجلة بالنظام، ولذلك لا يمكن عرضها.";
+"Prefix" = "اختصار";
+"First name" = "الاسم الأول";
+"Phonetic first name" = "الاسم الأول صوتي";
+"Middle name" = "الاسم الأوسط";
+"Phonetic middle name" = "الاسم الأوسط صوتي";
+"Last name" = "الاسم الأخير";
+"Phonetic last name" = "الاسم الأخير صوتي";
+"Maiden name" = "الاسم قبل الزواج";
+"Suffix" = "بادئة";
+"Nickname" = "الكنية";
+"Job title" = "المسمى الوظيفي";
+"Department" = "الإدارة";
+"Company" = "الشركة";
+"Phonetic company name" = "الاسم الصوتي للشركة";
+"Phone" = "الهاتف";
+"Email" = "البريد الإلكتروني";
+"mobile" = "المحمول";
+"Address" = "العنوان";
+"Phone type" = "نوع الهاتف";
+"URL" = "عنوان URL";
+"Birthday" = "تاريخ الميلاد";
+"Date" = "التاريخ";
+"Social profile" = "الملف الاجتماعي";
+"Instant message" = "رسالة فورية";
+"Street" = "الشارع";
+"City" = "المدينة";
+"State" = "المحافظة";
+"Zip" = "الرمز البريدي";
+"anniversary" = "ذكرى سنوية";
+"Name" = "الاسم";
+"home" = "المنزل";
+"work" = "العمل";
+"iPhone" = "iPhone";
+"main" = "الرئيسية";
+"other" = "أخرى";
+"Saudi Arabia" = "المملكة العربية السعودية";
+
+//
+"Exit" = "خروج";
+"Something went wrong while exiting the group. Please try again." = "حدث خطأ ما عند الخروج من المجموعة. يرجى المحاولة لاحقا.";
+"Something went wrong while removing this member. Please try again." = "حدث خطأ ما عند جذف العضو. يرجى المحاولة لاحقا";
+"Exit Group" = "الخروج من المجموعة";
+"Remove From Group" = "ازالة من المجموعة";
+"from" = "من";
+"group" = "مجموعة";
+"Make Group Admin" = "تعيينه مشرفاً على المجموعة";
+"Dismiss as Admin" = "صرفه من منصب مشرف";
+"Send Message" = "إرسال رسالة";
+"Video Call" = "إجراء مكالمة فيديو";
+"Voice Call" = "إجراء مكالمة صوتية";
+"Info" = "معلومات";
+"Clear Chat" = "مسح محتوى الدردشة";
+"You" = "أنت";
+"Search" = "بحث";
+"Add partecipants" = "اضافة مشاركين";
+"Group Settings" = "إعدادات المجموعة";
+"Custom Tone" = "تخصيص النعمات";
+"Mute" = "كتم";
+"Chat Search" = "البحث في الدردشة";
+"Connecting" = "توصيل";
+"Connecting..." = "توصيل...";
+"Success!" = "نجاح!";
+"Activation" = "تفعيل";
+"Enter your activation code" = "أدخل رمز التفعيل";
+"INVALID CODE" = "رمز غير صحيح";
+"Failed attempt. App will be locked after 3 failed attempts." = "محاولة فاشلة. سيتم قفل التطبيق بعد 3 محاولات فاشلة.";
+"Next" = "التالي";
+"Invalid activation code format" = "تنسيق رمز التنشيط غير صالح";
+"Invalid activation code" = "رمز تفعيل غير صالح";
+"Make sure the format is the following 'number-otp'" = "تأكد من اتباع التنسيق التالي 'number-otp'";
+"Choose a Master Password" = "اختر كلمة مرور رئيسية";
+"Enter your master password" = "أدخل كلمة المرور الرئيسية";
+"Password shall have a minimum of 4 characters or numbers" = "كلمة المرور لابد أن تحتوي على 4 حروف أو أرقام";
+"Verify Master Password" = "تأكد من كلمة المرور الرئيسية";
+"Re-enter the master password" = "أعد إدخال كلمة المرور الرئيسية";
+"Set Master Password" = "تعيين كلمة المرور الرئيسية";
+"Go Back" = "عودة";
+"Setting Master Password" = "اعدادت كلمة المرور الرئيسية";
+"Fetching data" = "جلب البيانات";
+"Fetching data..." = "جلب البيانات...";
+"Something went wrong while connecting to the server. Unable to login." = "حدث خطأ ما أثناء الاتصال بالخادم. غير قادر على تسجيل الدخول.";
+"Your password doesn't match." = "كلمة المرور غير مطابقة.";
+"Your password matches." = "كلمة المرور مطابقة.";
+"App Locked" = "تم قفل التطبيق";
+"Registration failed too many times." = "فشل التسجيل مرات عديدة.";
+"speaker" = "السماعة";
+"mute" = "كتم";
+"Ringing..." = "يرن...";
+"Decrypting info" = "معلومات فك التشفير";
+"Send Current Location" = "إرسال الموقع الحالي";
+"Share Location" = "مشاركة الموقع";
+"Search Results" = "نتائج البحث";
+"Select Multiple Contacts" = "تحديد جهات اتصال متعددة";
+"To use video calls, this app needs access to your iPhone's camera. You can fix this by doing the following" = "لاستخدام مكالمات الفيديو، المصمك يحتاج الوصول لكاميرا الجهاز، يمكنك اصلاح ذلك من خلال";
+"You can fix this by doing the following" = "يمكنك اصلاح ذلك بالقيام بالتالي";
+"Close this app." = "اغلاق التطبيق";
+"Open the Settings app." = "افتح الاعدادت الخاصة بالجهاز";
+"Scroll to the bottom and select this app in the list." = "مرر لأسفل وحدد هذا التطبيق في القائمة.";
+"Turn the Camera on." = "قم بتشغيل الكاميرا.";
+"Open this app and try again." = "افتح هذا التطبيق وحاول مرة أخرى.";
+"To use video calls, this app needs access to your iPhone's camera. Tap Settings and turn on Camera." = "لاستخدام مكالمات الفيديو، المصمك يحتاج الوصول لكاميرا الجهاز، اضغط على الاعدادات وقم بتشغيل الكاميرا.";
+"To work properly this app needs Notification Authorization. You can fix this by doing the following" = "للعمل بشكل صحيح، يحتاج المصمك لتفعيل الاشعارات، يمكنك القيام بذلك من خلال";
+"Allow Notifications." = "السماح بالإشعارات.";
+"To work properly this app needs Notificationa authorizations. Tap Settings and turn the authorization ON." = "للعمل بشكل صحيح، يحتاج المصمك لتفعيل الاشعارات، اضغط على الاعدادت وقم بتفعيل الاشعارات.";
+"Creating group" = "إنشاء مجموعة";
+"PARTECIPANTS" = "المشاركين";
+"OF 256" = "من 256"; // used for the phrase "PARTECIPANTS: 2 of 256"
+"Please provide a group subject and optional group icon" = "يرجى تقديم موضوع المجموعة ورمز المجموعة الاختياري";
+"Please set self-disappearing time." = "يرجى تحديد وقت الاختفاء الذاتي.";
+"1 hour" = " ساعة";
+"2 hours" = "ساعتان";
+"1 day" = "يوم";
+"2 days" = "يومان";
+"1 week" = "أسبوع";
+"Set" = "حدد";
+
+"Message Info" = "معلومات الرسالة";
+"READ BY" = "قرأها";
+"RECEIVED BY" = "استلمها";
+"Read" = "قٌرِئت";
+"Delivered" = "تم تسليمها";
+
+"Map" = "خريطة";
+"Hybrid" = "مختلط";
+"Satellite" = "قمر صناعي";
+"Shared location" = "مشاركة الموقع";
+
+"typing..." = "يكتب...";
+"is typing..." = "يكتب الان...";
+"Online" = "متصل";
+
+"Something went wrong while adding new members. Please try again to add the contacts that failed to be added." = "حدث خطأ ما أثناء إضافة أعضاء جدد. يرجى المحاولة مرة أخرى لإضافة جهات الاتصال التي فشلت إضافتها.";
+
+// The following strings are used to compose phrases like:
+// "Add Contact1, Contact2, Contact3, Contact4 and 1 other to "Tech" group?
+// OR
+// "Add Contact1, Contact2, Contact3, Contact4 and 3 others to "Tech" group?
+"Add Partecipants" = "اضافة مشاركين";
+"and 1 other to" = "وآخر لـ";
+"and" = "و ";
+"others to" = "أخرى لـ";
+"partecipant" = "مشارك";
+"partecipants" = "مشاركين";
+
+
+"Forward" = "تحويل";
+"Forwarded" = "رسالة محوّلة";
+"Started by" = "تبدأ بـ";
+"RECORDING" = "تسجيل";
+"View All" = "عرض الكل";
+
+"copied this message." = "نسخ هذه الرسالة";
+"forwarded this message." = "حول هذه الرسالة";
+"deleted this message." = "حذف هذه الرسالة";
+"took a screenshot." = "أخذ صورة للشاشة";
+"recorded this chat." = "سجل هذه الدردشة";
+"More" = "المزيد";
+"File type not supported" = "نوع الملف غير مدعوم";
+"Fetching old messages" = "جلب الرسائل القديمة";
+"Yesterday" = "أمس";
+"OK" = "حسناً";
+"Photo & Video Library" = "مكتبة الصور والفيديو";
+"Message" = "رسالة";
+"Reply Privately" = "رد فردي";
+"Copy" = "نسخ";
+"Reply" = "رد";
+"Archived Chats" = "الدردشات المؤرشفة";
+
+"Unarchive" = "الغاء الأرشفة";
+"Delete contact unable to execute" = "غير قادر على تنفيذ أمر حذف جهة اإتصال";
+
+"Failed to delete" = "فشل عملية الحذف";
+"Something went wrong while connecting to the server." = "حدث خطأ ما أثناء الاتصال بالخادم.";
+"Something went wrong while connecting to the server. Unable to delete." = "حدث خطأ ما أثناء الاتصال بالخادم. تعذر الحذف.";
+"Something went wrong while connecting to the server. Please close the app and try again." = "حدث خطأ ما أثناء الاتصال بالخادم. يرجى إغلاق التطبيق والمحاولة مرة أخرى.";
+
+
+"Enter Master Password" = "أدخل كلمة المرور الرئيسية";
+"Your master password" = "أدخل كلمة المرور";
+"INVALID PASSWORD" = "كلمة مرور غير صالحة";
+"failed attempts. App will be locked after 3 failed attempts." = "محاولات فاشلة. سيتم قفل التطبيق بعد ٣ محاولات فاشلة.";
+"1 Failed attempt. App will be locked after 3 failed attempts." = "محاولة فاشلة. سيتم قفل التطبيق بعد ٣ محاولات فاشلة.";
+"Login" = "الدخول";
+"Invalid password" = "كلمة مرور غير صالحة";
+"Enter a valid password" = "أدخل كلمة مرور صالحة";
+"In order to activate the app, you must" = "لتنشيط التطبيق ، يجب عليك";
+"Allow" = "السماح";
+"notifications" = "الاشعارات";
+"Allow Notification" = "السماح بالاشعارات";
+
+
+// NEW
+"In-App Chat Support" = "الدردشة مع الدعم الفني";
+"Groups In Common" = "المجموعات المشتركة";
+"Chat Wallpaper" = "صور خلفيات الدردشة";
+"Self-disappearing has been set" = "تم ضبط الاخفاء الذاتي";
+"Self-disappearing has been unset" = "تم الغاء الاخفاء الذاتي";
+"Chat Wallpaper" = "خلفية الدردشة";
+"Clear All Chats" = "مسح كل الدردشات";
+"Delete All Chats" = "حذف كل الدردشات";
+"Wallpaper Library" = "مكتبة صور الخلفيات";
+
+
+//
+"Contacts" = "جهات الإتصال";
+"In-App Call Support" = "الاتصال بالدعم الفني";
+"No Starred Messages" = "لا يوجد رسائل مميزة بنجمة";
+"Tap and hold on any message to start it, so you can easily find it later." = "لاضافة رسائل مميزة اختر الرسالة في الدردشة واضغط عليها ثم اختر النجمة";
+"Unread messages" = "رسائل غير مقروءة";
+"Screenshot" = "التقاط صورة للشاشة";
+"Taken by" = "تمت بواسطة";
+"Starred Messages" = "الرسائل المميزة بنجمة";
+"Last seen" = "آخر ظهور";
+"App-Support" = "الدعم الفني";
+"App size" = "المساحة المستخدمة من البرنامج";
+"Available space" = "المساحة المتبقية في الجهاز";
+"You deleted this message" = "انت حذفت هذه الرسالة";
+"This message has been deleted" = "تم حذف هذه الرسالة";
+
+
+
+"You can reach out support staff by choosing one of the following methods" = "يمكنك التواصل مع فريق الدعم الفني عن طريق اختيار احد هذه الطرق";
+"Live Chat" = "الدردشة المباشرة";
+"In-App live chat with one of our support specialist." = "دردشة مباشرة مع احد مختصي الدعم الفني";
+"In-app Call" = "مكالمة من خلال البرنامج ";
+"Speak to one of our support specialist on in-app call." = "تحدث  مع احد مختصي الدعم الفني من خلال البرنامج";
+"Phone Call" = "مكالمة هاتفية";
+"Speak to one of our support specialist on your GSM number." = "تحدث مع احد مختصي الدعم الفني من خلال مكالمة هاتفية عادية";
+
+
+"Please set self-disappearing time." = "اختر وقت الإختفاء التلقائي";
+"1 hour" = "ساعة";
+"2 hours" = "ساعتان";
+"1 day" = "يوم";
+"2 days" = "يومان";
+"1 week" = "اسبوع";
+"Never" = "أبداً";
+"Self-disappearing messages have been canceled from this point." = "تم الغاء المسح التلقائي للرسائل ابتداً من هذه النقطة";
+"Messages will self disappear after" = "سيتم مسح الرسائل تلقائيا بعد";
+"from this point" = "ابتداً من هذه النقطة";
+"Tap here to change settings." = "أضغط هنا لتغيير الإعدادات";
+
+
+"New Message" = "رسالة جديدة";
+"Missed Video Call" = "مكالمة فيديو فائتة";
+"Missed Audio Call" = "مكالمة صوتيه فائتة";
+
+
+
+"File size is not allowed" = "حجم الملف اكبر من المسموح";
+"File is too big" = "حجم الملف كبير جدا";
+"Files over 60MB are not allowed." = "لا يسمح بإرسال ملفات اكبر من ٥٠ ميغابايت";
+
+
+"This message has been self disappeared automatically" = "تم مسح هذه الرسالة بشكل تلقائي";
+
+
+"creator" = "المنشئ";
+"admin" = "المشرف";
+"Default" = "الإفتراضي";
+"AM" = "صباحاً";
+"PM" = "مساءً";
+"None" = "لا يوجد";
+"tone" = "نغمه";
+"Sound" = "الصوت";
+"Remove" = "إزالة";
+
+"Delete messages" = "مسح الرسائل";
+"Delete all messages" = "مسح جميع الرسائل";
+
+"You have been added to Chat Group" = "تم اضافتك لمجموعة الدردشة";
+"Your role in the Chat Group" = "دورك في مجموعة الدردشة";
+"has been changed to administrator" = "تم تغييره الى مشرف";
+"You have created this Chat Group" = "أنت قمت بإنشاء مجموعة الدردشة";
+
+
+"Update" = "تحديث";
+"Download" = "تحميل";
+"A new mandatory version is available. Please download and install to use the app." = "يوجد نسخة تحديث إلزامية. الرجاء تحميل وتثبيت النسخة الجديدة لتتمكن من استخدام البرنامج";
+
+
+"Yesterday at" = "البارحة عند";
+"Today at" = "اليوم الساعة";
+
+"Deactivate" = "إبطال المصمك";
+"This will require contacting the System Administration to reactivate" = "سيتطلب الاتصال بالمشرف على النظام لاعادة التفعيل";
+"Confirm" = "تاكيد";
+
+"App support" = "دعم المصمك";
+"Click here to preview" = "أضغط هنا لإستعراض الصورة";
+
+
+"Temporary Conversation" = "محادثة موقتة";
+"Temporary Group" = "مجموعة مؤقتة";
+"Will be deleted on:" = "سيتم حذفها في:";
+"This conversation will be deleted on:" = "هذه المحادثة سيتم حذفها في :";
+
+
+"Forbidden" = "Forbidden";
+"You can't send this type of files." = "You can't send this type of files.";
+
+
+"Change Master Password" = "الرجاء تحديث كلمة المرور";
+
+"File is too big" = "حجم الملف اكبر من المسموح به";
+"Compressing video" = "ضغط الفيديو";
+"of" = "من";
+"Complete" = "الإنجاز";
+"Some files are too big to send" = "بعض الملفات اكبر من الحجم المسموح به للإرسال";

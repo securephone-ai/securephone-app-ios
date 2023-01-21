@@ -1,0 +1,384 @@
+"Xcurrency" = "Xcurrency";
+"XCURRENCY" = "XCURRENCY";
+"Chat" = "Chat";
+"Chats" = "Chats";
+"RegistrationViewController_Title" = "Your Phone Number";
+"RegistrationViewController_Header" = "Please confirm your country code and enter your phone number";
+"EditNumber" = "Edit number";
+"RetrievingCredentials" = "Retrieving credentials...";
+"Delete" = "Delete";
+"Take Photo" = "Take Photo";
+"Choose Photo" = "Choose Photo";
+"Cancel" = "Cancel";
+"Add Photo" = "Add photo";
+"Calls" = "Calls";
+"Edit" = "Edit";
+"Done" = "Done";
+"Photos" = "Photos";
+"Audio" = "Audio";
+"Videos" = "Videos";
+"Documents" = "Documents";
+"Never" = "Never";
+"Network Usage" = "Network Usage";
+"Wi-Fi" = "Wi-Fi";
+"Wi-Fi and Cellular" = "Wi-Fi and Cellular";
+"Hello" = "Hello";
+"Add" = "Add";
+"Adding" = "Adding";
+"Settings" = "Settings";
+"Edit Profile" = "Edit Profile";
+"Available" = "Available";
+"At Meeting" = "At a Meeting";
+"On an international trip" = "On an international trip";
+"On a domestic trip" = "On a domestic trip";
+"Out of service" = "Out of service";
+"On personal time" = "On a personal time";
+"Select your about" = "Select your about";
+"About" = "About";
+"Currently set to" = "Currently set to";
+"Currently used status..." = "Currently used status...";
+"Broadcast Lists" = "Broadcast Lists";
+"New Group" = "New Group";
+"Archived Chats" = "Archived Chats";
+"Archive" = "Archive";
+"Unarchive" = "Unarchive";
+"Unread" = "Unread";
+"Pin" = "Pin";
+"All" = "All";
+"Missed" = "Missed";
+"Incoming" = "Incoming";
+"Outgoing" = "Outgoing";
+"Missed" = "Missed";
+"Clear" = "Clear";
+"Clear Call History" = "Clear Call History";
+"Mute" = "Mute";
+"Group Info" = "Group Info";
+"Contact Info" = "Contact Info";
+"Export Chat" = "Export Chat";
+"Clear Chat" = "Clear Chat";
+"Delete Chat" = "Delete Chat";
+"Today" = "Today";
+"Camera" = "Camera";
+"Photo & Video Library" = "Photo & Video Library";
+"Document" = "Document";
+"Location" = "Location";
+"Contact" = "Contact";
+"Share Location" = "Share Location";
+"Slide to cancel" = "Slide to cancel";
+"New Chat" = "New Chat";
+"New Contact" = "New Contact";
+"Delete Contact" = "Delete Contact";
+"more fields" = "more fields";
+"add other field" = "add other field";
+"Save" = "Save";
+"Contact Details" = "Contact Details";
+"Invalid contact" = "Invalid contact";
+"The contact number just added is not registered within the system, therefore it will not be displayed." = "The contact number just added is not registered within the system, therefore it will not be displayed.";
+"Prefix" = "Prefix";
+"First name" = "First name";
+"Phonetic first name" = "Phonetic first name";
+"Middle name" = "Middle name";
+"Phonetic middle name" = "Phonetic middle name";
+"Last name" = "Last name";
+"Phonetic last name" = "Phonetic last name";
+"Maiden name" = "Maiden name";
+"Suffix" = "Suffix";
+"Nickname" = "Nickname";
+"Job title" = "Job title";
+"Department" = "Department";
+"Company" = "Company";
+"Phonetic company name" = "Phonetic company name";
+"Phone" = "Phone";
+"Email" = "Email";
+"mobile" = "mobile";
+"Address" = "Address";
+"Phone type" = "Phone type";
+"URL" = "URL";
+"Birthday" = "Birthday";
+"Date" = "Date";
+"Social profile" = "Social profile";
+"Instant message" = "Instant message";
+"Street" = "Street";
+"City" = "City";
+"State" = "State";
+"Zip" = "Zip";
+"anniversary" = "anniversary";
+"Name" = "Name";
+"home" = "home";
+"work" = "work";
+"iPhone" = "iPhone";
+"main" = "main";
+"other" = "other";
+"Saudi Arabia" = "Saudi Arabia";
+
+//
+"Exit" = "Exit";
+"Something went wrong while exiting the group. Please try again." = "Something went wrong while exiting the group. Please try again";
+"Something went wrong while removing this member. Please try again." = "Something went wrong while removing this member. Please try again.";
+"Exit Group" = "Exit Group";
+"Remove From Group" = "Remove From Group";
+"from" = "from";
+"group" = "group";
+"Make Group Admin" = "Make Group Admin";
+"Dismiss as Admin" = "Dismiss as Admin";
+"Send Message" = "Send Message";
+"Video Call" = "Video Call";
+"Voice Call" = "Voice Call";
+"Info" = "Info";
+"Clear Chat" = "Clear Chat";
+"You" = "You";
+"Search" = "Search";
+"Add partecipants" = "Add partecipants";
+"Group Settings" = "Group Settings";
+"Custom Tone" = "Custom Tone";
+"Mute" = "Mute";
+"Chat Search" = "Chat Search";
+"Connecting" = "Connecting";
+"Connecting..." = "Connecting...";
+"Success!" = "Success!";
+"Activation" = "Activation";
+"Enter your activation code" = "Enter your activation code";
+"INVALID CODE" = "INVALID CODE";
+"Failed attempt. App will be locked after 3 failed attempts." = "Failed attempt. App will be locked after 3 failed attempts.";
+"Next" = "Next";
+"Invalid activation code format" = "Invalid activation code format";
+"Invalid activation code" = "Invalid activation code";
+"Make sure the format is the following 'number-otp'" = "Make sure the format is the following 'number-otp'";
+"Choose a Master Password" = "Choose a Master Password";
+"Enter your master password" = "Enter your master password";
+"Password shall have a minimum of 4 characters or numbers" = "Password shall have a minimum of 4 characters or numbers";
+"Verify Master Password" = "Verify Master Password";
+"Re-enter the master password" = "Re-enter the master password";
+"Set Master Password" = "Set Master Password";
+"Go Back" = "Go Back";
+"Setting Master Password" = "Setting Master Password";
+"Fetching data" = "Fetching data";
+"Fetching data..." = "Fetching data...";
+"Something went wrong while connecting to the server. Unable to login." = "Something went wrong while connecting to the server. Unable to login.";
+"Your password doesn't match." = "Your password doesn't match.";
+"Your password matches." = "Your password matches.";
+"App Locked" = "App Locked";
+"Registration failed too many times." = "Registration failed too many times.";
+"speaker" = "speaker";
+"mute" = "mute";
+"Ringing..." = "Ringing...";
+"Decrypting info" = "Decrypting info";
+"Send Current Location" = "Send Current Location";
+"Share Location" = "Share Location";
+"Search Results" = "Search Results";
+"Select Multiple Contacts" = "Select Multiple Contacts";
+"To use video calls, this app needs access to your iPhone's camera. You can fix this by doing the following" = "To use video calls, this app needs access to your iPhone's camera. You can fix this by doing the following";
+"You can fix this by doing the following" = "You can fix this by doing the following";
+"Close this app." = "Close this app.";
+"Open the Settings app." = "Open the Settings app.";
+"Scroll to the bottom and select this app in the list." = "Scroll to the bottom and select this app in the list.";
+"Turn the Camera on." = "Turn the Camera on.";
+"Open this app and try again." = "Open this app and try again.";
+"To use video calls, this app needs access to your iPhone's camera. Tap Settings and turn on Camera." = "To use video calls, this app needs access to your iPhone's camera. Tap Settings and turn on Camera.";
+"To work properly this app needs Notification Authorization. You can fix this by doing the following" = "To work properly this app needs Notification Authorization. You can fix this by doing the following";
+"Allow Notifications." = "Allow Notifications.";
+"To work properly this app needs Notificationa authorizations. Tap Settings and turn the authorization ON." = "To work properly this app needs Notificationa authorizations. Tap Settings and turn the authorization ON.";
+"Creating group" = "Creating group";
+"PARTECIPANTS" = "PARTECIPANTS";
+"OF 256" = "OF 256"; // used for the phrase "PARTECIPANTS: 2 of 256"
+"Please provide a group subject and optional group icon" = "Please provide a group subject and optional group icon";
+"Please set self-disappearing time." = "Please set self-disappearing time.";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"1 day" = "1 day";
+"2 days" = "2 days";
+"1 week" = "1 week";
+"Set" = "Set";
+
+"Message Info" = "Message Info";
+"READ BY" = "READ BY";
+"RECEIVED BY" = "RECEIVED BY";
+"Read" = "Read";
+"Delivered" = "Delivered";
+
+"Map" = "Map";
+"Hybrid" = "Hybrid";
+"Satellite" = "Satellite";
+"Shared location" = "Shared location";
+
+"typing..." = "typing...";
+"is typing..." = "is typing...";
+"Online" = "Online";
+
+"Something went wrong while adding new members. Please try again to add the contacts that failed to be added." = "Something went wrong while adding new members. Please try again to add the contacts that failed to be added.";
+
+// The following strings are used to compose phrases like:
+// "Add Contact1, Contact2, Contact3, Contact4 and 1 other to "Tech" group?
+// OR
+// "Add Contact1, Contact2, Contact3, Contact4 and 3 others to "Tech" group?
+"Add Partecipants" = "Add Partecipants";
+"and 1 other to" = "and 1 other to";
+"and" = "and";
+"others to" = "others to";
+"partecipant" = "partecipant";
+"partecipants" = "partecipants";
+
+
+"Forward" = "Forward";
+"Forwarded" = "Forwarded";
+"Started by" = "Started by";
+"RECORDING" = "RECORDING";
+"View All" = "View All";
+
+"copied this message." = "copied this message.";
+"forwarded this message." = "forwarded this message.";
+"deleted this message." = "deleted this message.";
+"took a screenshot." = "took a screenshot.";
+"recorderd this chat." = "recorderd this chat.";
+"More" = "More";
+"File type not supported" = "File type not supported";
+"Fetching old messages" = "Fetching old messages";
+"Yesterday" = "Yesterday";
+"Yesterday at" = "Yesterday at";
+"Today at" = "Today at";
+"OK" = "OK";
+"Photo & Video Library" = "Photo & Video Library";
+"Message" = "Message";
+"Reply Privately" = "Reply Privately";
+"Copy" = "Copy";
+"Reply" = "Reply";
+"Archived Chats" = "Archived Chats";
+
+"Unarchive" = "Unarchive";
+"Delete contact unable to execute" = "Delete contact unable to execute";
+
+"Failed to delete" = "Failed to delete";
+"Something went wrong while connecting to the server." = "Something went wrong while connecting to the server.";
+"Something went wrong while connecting to the server. Unable to delete." = "Something went wrong while connecting to the server. Unable to delete.";
+"Something went wrong while connecting to the server. Please close the app and try again." = "Something went wrong while connecting to the server. Please close the app and try again.";
+
+
+"Enter Master Password" = "Enter Master Password";
+"Your master password" = "Your master password";
+"INVALID PASSWORD" = "INVALID PASSWORD";
+"failed attempts. App will be locked after 3 failed attempts." = "failed attempts. App will be locked after 3 failed attempts.";
+"1 Failed attempt. App will be locked after 3 failed attempts." = "1 Failed attempt. App will be locked after 3 failed attempts.";
+"Login" = "Login";
+"Invalid password" = "Invalid password";
+"Enter a valid password" = "Enter a valid password";
+"In order to activate the app, you must" = "In order to activate the app, you must";
+"Allow" = "Allow";
+"notifications" = "notifications";
+"Allow Notification" = "Allow Notification";
+
+
+// NEW
+"Groups In Common" = "Groups In Common";
+"Starred Messages" = "Starred Messages";
+"In-App Chat Support" = "In-App Chat Support";
+
+"Chat Wallpaper" = "Chat Wallpaper";
+"Clear All Chats" = "Clear All Chats";
+"Delete All Chats" = "Delete All Chats";
+"Wallpaper Library" = "Wallpaper Library";
+"Success" = "Success";
+"Self-disappearing has been set" = "Self-disappearing has been set";
+"Self-disappearing has been unset" = "Self-disappearing has been unset";
+
+//
+"Contacts" = "Contacts";
+"In-App Call Support" = "In-App Call Support";
+"No Starred Messages" = "No Starred Messages";
+"Tap and hold on any message to start it, so you can easily find it later." = "Tap and hold on any message to start it, so you can easily find it later.";
+"Unread messages" = "Unread messages";
+
+"Screenshot" = "Screenshot";
+"Taken by" = "Taken by";
+"Last seen" = "Last Seen";
+"App-Support" = "App-Support";
+"App size" = "App size";
+"Available space" = "Available space";
+"You deleted this message" = "You deleted this message";
+"This message has been deleted" = "This message has been deleted";
+
+
+"You can reach out support staff by choosing one of the following methods" = "You can reach out support staff by choosing one of the following methods";
+"Live Chat" = "Live Chat";
+"In-App live chat with one of our support specialist." = "In-App live chat with one of our support specialist.";
+"In-app Call" = "In-app Call";
+"Speak to one of our support specialist on in-app call." = "Speak to one of our support specialist on in-app call.";
+"Phone Call" = "Phone Call";
+"Speak to one of our support specialist on your GSM number." = "Speak to one of our support specialist on your GSM number.";
+
+
+"Please set self-disappearing time." = "Please set self-disappearing time.";
+"1 hour" = "1 hour";
+"2 hours" = "2 hours";
+"1 day" = "1 day";
+"2 days" = "2 days";
+"1 week" = "1 week";
+"Never" = "Never";
+"Self-disappearing messages have been canceled from this point." = "Self-disappearing messages have been canceled from this point.";
+"Messages will self disappear after" = "Messages will self disappear after";
+"from this point" = "from this point";
+"Tap here to change settings." = "Tap here to change settings.";
+
+
+"New Message" = "New Message";
+"Missed Video Call" = "Missed Video Call";
+"Missed Audio Call" = "Missed Audio Call";
+
+"File size is not allowed" = "File size is not allowed";
+"File is too big" = "File is too big";
+"Files over 60MB are not allowed." = "Files over 60MB are not allowed.";
+
+
+"This message has been self disappeared automatically" = "This message has been self disappeared automatically";
+
+
+"creator" = "creator";
+"admin" = "admin";
+"normal" = "normal";
+"Default" = "Default";
+"AM" = "AM";
+"PM" = "PM";
+"None" = "None";
+"tone" = "tone";
+"Sound" = "Sound";
+"Delete messages" = "Delete messages";
+"Delete all messages" = "Delete all messages";
+
+"You have been added to Chat Group" = "You have been added to Chat Group";
+"Your role in the Chat Group" = "You role in Chat Group";
+"has been changed to administrator" = "has been changed to administrator";
+"You have created this Chat Group" = "You have created this Chat Group";
+
+
+"Update" = "Update";
+"A new mandatory version is available." = "A new mandatory version is available.";
+"Please download and install to use the app." = "Please download and install to use the app.";
+"Download" = "Download";
+
+"A new mandatory version is available. Please download and install to use the app." = "A new mandatory version is available. Please download and install to use the app.";
+
+"Deactivate this app" = "Deactivate this app";
+"This will require contacting the System Administration to reactivate" = "This will require contacting the System Administration to reactivate";
+"Confirm" = "Confirm";
+
+
+"App support" = "App support";
+"Click here to preview" = "Click here to preview";
+
+
+"Temporary Conversation" = "Temporary Conversation";
+"Temporary Group" = "Temporary Group";
+"Will be deleted on:" = "Will be deleted on:";
+"This conversation will be deleted on:" = "This conversation will be deleted on:";
+
+
+"Forbidden" = "Forbidden";
+"You can't send this type of files." = "You can't send this type of files.";
+
+"Change Master Password" = "Change Master Password";
+
+
+"File is too big" = "File is too big";
+"Compressing video" = "Compressing video";
+"of" = "of";
+"Complete" = "Complete";
+"Some files are too big to send" = "Some files are too big to send";

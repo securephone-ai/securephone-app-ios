@@ -1,0 +1,6 @@
+framework module Pods_Kryptotel {
+  umbrella header "Pods-Kryptotel-umbrella.h"
+
+  export *
+  module * { export * }
+}

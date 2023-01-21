@@ -1,0 +1,9 @@
+
+/* Class = "UITabBarItem"; title = "Calls"; ObjectID = "Ikr-01-9rF"; */
+"Ikr-01-9rF.title" = "المكالمات";
+
+/* Class = "UISegmentedControl"; xm5-HF-XS3.segmentTitles[0] = "All"; ObjectID = "xm5-HF-XS3"; */
+"xm5-HF-XS3.segmentTitles[0]" = "الكل";
+
+/* Class = "UISegmentedControl"; xm5-HF-XS3.segmentTitles[1] = "Missed"; ObjectID = "xm5-HF-XS3"; */
+"xm5-HF-XS3.segmentTitles[1]" = "فائته";
